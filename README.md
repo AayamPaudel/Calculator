@@ -19,6 +19,7 @@ orange = "#FF9500"
 white = "#ffffff"
 ```
 This is the whole python code for the calculator.
+```python
 import tkinter
 
 button_values = [
